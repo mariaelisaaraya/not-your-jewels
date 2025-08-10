@@ -1,7 +1,14 @@
 import type { Metadata } from 'next'
 import { GeistSans } from 'geist/font/sans'
 import { GeistMono } from 'geist/font/mono'
+import { VT323 } from 'next/font/google'
 import './globals.css'
+
+const vt323 = VT323({
+  subsets: ['latin'],
+  weight: '400',
+  variable: '--font-vt323',
+})
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://notyourjewels.vercel.app'),
@@ -35,13 +42,14 @@ export default function RootLayout({
       <head>
         <style>{`
 html {
-  font-family: ${GeistSans.style.fontFamily};
+  font-family: ${vt323.style.fontFamily};
   --font-sans: ${GeistSans.variable};
   --font-mono: ${GeistMono.variable};
+  --font-vt323: ${vt323.variable};
 }
         `}</style>
       </head>
-      <body>{children}</body>
+      <body className={`${vt323.variable} font-vt323`}>{children}</body>
     </html>
   )
 }
