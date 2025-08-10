@@ -239,6 +239,24 @@ Estos contratos serán desplegados y verificados en **Stellar Mainnet**:
 
 ---
 
+## 📞 Contacto
+
+- **Website**: [https://not-your-jewels.vercel.app/](https://not-your-jewels.vercel.app/)  
+- **Correo**: notyourjewelsdapp@gmail.com
+
+---
+
+### Recursos 
+
+- [Video explicativo](https://youtube.com/watch?v=cS9_8sArmFQ)
+- Dorahacks: [https://dorahacks.io/buidl/30925/](https://dorahacks.io/buidl/30925/)
+- Sitio web: [not-your-jewels.vercel.app](https://not-your-jewels.vercel.app)
+- Twitter: [@notyourjewelslatam](https://twitter.com/notyourjewelslatam)
+- Instagram: [@notyourjewelslatam](https://www.instagram.com/notyourjewelslatam/)
+- Diseño Canva: [Enlace al diseño](https://www.canva.com/design/DAGvnJLYsqA/Z5KcT51yfTJACXmpkDwMFg/edit?utm_content=DAGvnJLYsqA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+---
+
 ## 🤝 Equipo
 
 - [Emmi Aguilar Rivero](https://www.linkedin.com/in/emmi-aguilar-rivero/)
@@ -247,11 +265,5 @@ Estos contratos serán desplegados y verificados en **Stellar Mainnet**:
  
 ---
 
-## 📞 Contacto
-
-- **Website**: [https://not-your-jewels.vercel.app/](https://not-your-jewels.vercel.app/)  
-- **Correo**: notyourjewelsdapp@gmail.com
-
----
 
 💎 **Not Your Jewels — Ningún estudiante debería perder sus joyas para no perder su futuro** 💎
