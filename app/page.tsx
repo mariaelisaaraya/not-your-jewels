@@ -73,7 +73,7 @@ export default function NotYourJewelsLanding() {
         
         <div className="container mx-auto px-4 text-center z-10 relative">
           <div className="max-w-4xl mx-auto">
-            <h1 className={`${commissioner.className} text-5xl md:text-7xl font-bold mb-6 leading-tight`}>
+            <h1 className="font-vt323 text-5xl md:text-7xl font-bold mb-6 leading-tight">
               Porque la educación no debería ser un{" "}
               <span className="bg-gradient-to-r from-[#FF8FB1] to-[#00AEEF] bg-clip-text text-transparent">
                 privilegio
@@ -219,6 +219,13 @@ export default function NotYourJewelsLanding() {
               <p className="text-xl text-gray-300 mb-8">
                 Convierte tu educación en una experiencia gamificada donde cada logro cuenta
               </p>
+
+              {/* Ejemplo de uso de la fuente VT323 */}
+              <div className="mb-8 p-4 bg-white/5 rounded-lg border border-white/10">
+                <p className="font-vt323 text-lg text-[#00AEEF] mb-2">Ejemplo de fuente VT323:</p>
+                <p className="font-vt323 text-2xl text-white">¡LEVEL UP! +100 XP</p>
+                <p className="font-vt323 text-lg text-[#00C49A]">Nueva medalla desbloqueada</p>
+              </div>
 
               <div className="space-y-4">
                 <div className="flex items-center gap-3">

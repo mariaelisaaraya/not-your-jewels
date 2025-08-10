@@ -8,6 +8,15 @@
   }
 }
 
+@layer components {
+  .font-geist-sans {
+    font-family: var(--font-sans), sans-serif;
+  }
+  .font-geist-mono {
+    font-family: var(--font-mono), monospace;
+  }
+}
+
 @layer base {
   :root {
     --background: 0 0% 100%;
@@ -85,6 +94,9 @@
     @apply border-border;
   }
   body {
-    @apply bg-background text-foreground;
+    @apply bg-background text-foreground font-vt323;
+  }
+  html {
+    font-family: var(--font-vt323), monospace;
   }
 }
