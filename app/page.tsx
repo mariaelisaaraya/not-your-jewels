@@ -535,7 +535,7 @@ export default function NotYourJewelsLanding() {
           </div>
 
           <div className="border-t border-white/10 mt-12 pt-8 text-center text-gray-400">
-            <p>&copy; {new Date().getFullYear()} Not Your Jewels. Todos los derechos reservados.</p>
+            <p>&copy; {new Date().getFullYear()} Not Your Jewels. Powered by Stellar Network.</p>
           </div>
         </div>
       </footer>
